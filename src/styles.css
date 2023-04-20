@@ -1,0 +1,48 @@
+.App {
+  font-family: sans-serif;
+  margin: 100px auto;
+  text-align: center;
+  width: 500px;
+  background-color: white;
+  border: 1px solid black;
+}
+.socialmedia {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+h6 {
+  font-size: 100;
+}
+img {
+  height: 100px;
+  border-radius: 50%;
+  margin-top: 20px;
+}
+.number {
+  color: #51087e;
+  font-weight: 1000;
+}
+.follow {
+  margin-bottom: 10px;
+  margin-right: 30px;
+  padding: 8px;
+  width: 100px;
+  color: white;
+  background-color: #51087e;
+  border-radius: 10px;
+  border: none;
+}
+.message {
+  margin-bottom: 10px;
+  margin-right: 50px;
+  padding: 8px;
+  width: 100px;
+  color: white;
+  background-color: #e953a3;
+  border-radius: 10px;
+  border: none;
+}
+body {
+  background-color: black;
+}
